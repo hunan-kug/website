@@ -1,0 +1,30 @@
+baseURL: https://hunan-kug.github.io
+title: 湖南 KUG
+theme: PaperMod
+params:
+  profileMode:
+    enabled: true
+    title: Hunan Kotlin User Group
+    subtitle: Hi，这里是湖南 KUG，欢迎所有对 Kotlin 感兴趣的开发者加入我们的用户组
+    content:
+      - 这里提供了一个和其他成员一起学习、探讨技术问题的平台
+      - 我们会定期举办研讨会，分享与 Kotlin 相关的主题，并进行深入讨论
+      - 如果您对 Kotlin 技术感兴趣，欢迎联系我们的组织者，添加微信 [icq32c] 并备注 KUG，邀请您加入我们的群组
+    imageUrl: kug-logo.png
+    imageWidth: 360
+    imageHeight: 360
+  socialIcons:
+    - name: github
+      url: https://github.com/hunan-kug
+    - name: email
+      url: mailto:icq32@qq.com
+    - name: qq
+      url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5hMHENRCevDhBaBuLp4R5TQ7XIJQQKG6&authKey=jQZhFxi4gfoAlvj4htfoWBjVSCF7Zx4YlOZBXvz6LHoIzaXu2%2BvGy2l3OP55dAwN&noverify=0&group_code=533656876
+menu:
+  main:
+    - identifier: gl-kug
+      name: 全球 KUGs
+      url: https://kotlinlang.org/community/user-groups
+    - identifier: cn-kug
+      name: 国内 KUGs
+      url: https://mp.weixin.qq.com/s/GNlbZ6xpCGB1EGML_W4kOg
