@@ -9,7 +9,7 @@ params:
     content:
       - 这里提供了一个和其他成员一起学习、探讨技术问题的平台
       - 我们会定期举办研讨会，分享与 Kotlin 相关的主题，并进行深入讨论
-      - 如果您对 Kotlin 技术感兴趣，欢迎联系我们的组织者，添加微信 [icq32c] 并备注 KUG，邀请您加入我们的群组
+      - 如果您对 Kotlin 技术感兴趣，欢迎联系我们的组织者，添加微信 [oicqicy] 并备注 KUG，邀请您加入我们的群组
     imageUrl: kug-logo.png
     imageWidth: 360
     imageHeight: 360
